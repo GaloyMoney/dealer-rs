@@ -32,7 +32,7 @@ tokio = { version = "1.37", features = ["full"] }
 futures = "0.3.30"
 async-trait = "0.1.78"
 thiserror = "1.0.58"
-anyhow = "1.0.81"
+anyhow = "1.0.90"
 tracing = "0.1.40"
 tracing-subscriber = { version = "0.3.18", features = ["env-filter", "json"] }
 tracing-opentelemetry = "0.23.0"
