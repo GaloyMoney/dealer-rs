@@ -28,5 +28,5 @@ futures = { workspace = true }
 serde_with = { workspace = true }
 
 [dev-dependencies]
-anyhow = "1.0.70"
+anyhow = "1.0.91"
 serial_test = "3.0.0"
