@@ -34,5 +34,5 @@ governor = { workspace = true }
 lazy_static = { workspace = true }
 
 [dev-dependencies]
-anyhow = "1.0.70"
+anyhow = "1.0.94"
 serde_yaml = "0.9.27"
