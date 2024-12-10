@@ -40,7 +40,7 @@ opentelemetry-otlp = { version = "0.15.0", features = ["http-proto", "reqwest-cl
 opentelemetry = { version = "0.22.0" }
 opentelemetry_sdk = { version = "0.22.1", features = ["rt-tokio"] }
 opentelemetry-http = "0.11.1"
-chrono = { version = "0.4.37", features = ["clock", "serde"], default-features = false }
+chrono = { version = "0.4.39", features = ["clock", "serde"], default-features = false }
 ring = "0.16.20"
 uuid = { version = "1.8.0", features = ["v4", "serde"] }
 data-encoding = "2.5.0"
